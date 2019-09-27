@@ -1,3 +1,23 @@
+main {
+
+  padding-top: 100px;
+  background-color: #fff;
+  max-width: 1310px;
+  margin: auto;
+  padding: 30px;
+  padding-top: 30px;
+
+}
+
+body {
+  background: #f4f5f6;
+  color: #333;
+  font-size: 13px;
+  line-height: 18px;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
 .image-article {
   position: relative;
   background-color: #000;
@@ -32,6 +52,7 @@
   left: 0;
   z-index: 1;
 }
+
 .pic-on-counter {
   display: block;
   font: bold 17px/16px "Roboto", sans-serif;
@@ -62,14 +83,25 @@
 .in-the-magazine img {
   width: 100%;
 }
+
 .editors-pick img {
   width: 100%;
 }
-.feateure-slideshows img:nth-child(1){
+
+.feateure-slideshows img:nth-child(1) {
   width:100%;
 }
+
 .news-us img {
   width:100%
+}
+
+.news-world img {
+  width: 100%
+}
+
+.news-business img {
+  width: 100%;
 }
 
 .categorys {
@@ -84,7 +116,7 @@
   color:#f72210;
 }
 
-.red-category{
+.red-category {
   padding: 3px 7px;
   background-color: #f72210;
   color: #fff;
@@ -92,22 +124,101 @@
 }
 
 .article-title {
-    font-size: 20px;
-    color: #000;
-    font-weight: 700;
+  font-size: 20px;
+  color: #000;
+  font-weight: 700;
 }
 
-.news-title{
+.news-title {
   font-size: 17px;
   font-weight: bold;
   color:black;
-
 }
-.news-sec{
-color:#F72210;
 
+.news-sec {
+  color:#F72210;
 }
 
 .space {
   padding-bottom: 15px;
+}
+
+.summary {
+  font-size: 14px;
+}
+
+.section-title {
+  text-transform: uppercase;
+  font:bold 19px/19px "Roboto Condensed",sans-serif;
+
+}
+
+.in-the-magazine, .editors-pick, .feateure-slideshows {
+  margin-bottom: 30px;
+}
+
+.subscribe-section {
+  padding: 40px;
+  background: #F4F5F7;
+}
+
+
+.subscribe-section img {
+  width: 100%
+}
+
+.subscribe-title {
+  font-size: 20px;
+  padding-bottom: 8px;
+  font-weight: bold;
+  color: black;
+}
+
+.subscribe-text {
+  font-size: 15px;
+  padding-bottom: 8px;
+}
+
+.background1 {
+background: url("https://d.newsweek.com/en/full/1525348/newsletter-promo-home-page.png?w=397&h=265&q=90&f=172a044c08b5e64f42dcb61b425487bf");
+width: 100%;
+height: auto;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.padding-newsletter {
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+.bottom-title {
+  color: #f72210;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.icon{
+  font-size: 50px;
+  color: grey;
+}
+
+.links-footer a {
+  color: black;
+  text-decoration: none;
+  border-right: solid 1px grey;
+  opacity: .7;
+}
+
+.lenguage a {
+  color: black;
+  text-decoration: none;
+  border-right: solid 1px grey;
+  opacity: .7;
+}
+
+footer {
+  padding: 30px;
 }
