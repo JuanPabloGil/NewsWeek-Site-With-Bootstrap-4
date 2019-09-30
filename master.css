@@ -1,5 +1,5 @@
 main {
-  
+
   background-color: #fff;
   max-width: 1310px;
   margin: 0 auto;
@@ -103,22 +103,19 @@ nav {
   margin: 0 auto;
   color:black
 }
-.navigation2 input{
+.navigation2 input {
   height: 30px;
   width: 150px;
 }
 
-.navigation2 span{
+.navigation2 span {
   font-size: 18px;
   font-weight: bold;
   padding: 10px;
-  border-right: solid 1px rgba(0,0,0,0.3)    ;
+  border-right: solid 1px rgba(0,0,0,0.3);
   padding-left: 1.3%;
   padding-right: 1.3%;
 }
-
-
-
 
 .image-article {
   position: relative;
@@ -190,10 +187,6 @@ nav {
   width: 100%;
 }
 
-.feateure-slideshows img:nth-child(1) {
-  width:100%;
-}
-
 .news-us img {
   width:100%
 }
@@ -210,20 +203,24 @@ nav {
   width: 100%;
 }
 
-.featured-stories img{
-  width: 100%;
-
-}
-.middle-section img{
+.featured-stories img {
   width: 100%;
 }
+.middle-section img {
+  width: 100%;
+}
 
-.sub-aricle-mid img{
+.sub-aricle-mid img {
   float: left;
   width: 135px;
   margin-right: 15px;
   clear: right;
 }
+
+.feateure-slideshows img:nth-child(1) {
+  width:100%;
+}
+
 .sub-aricle-mid div {
   list-style-type:none;
   font: 15px/20px "Helvetica Neue","Helvetica",Arial,sans-serif;
@@ -247,7 +244,7 @@ nav {
 .sub-article-title {
   font-weight: bold;
 }
-.pic-on-blue{
+.pic-on-blue {
   display: block;
   font: bold 17px/16px "Roboto", sans-serif;
   color: #3581f4;;
@@ -259,6 +256,7 @@ nav {
   z-index: 1;
   text-transform: uppercase;
 }
+
 .card-left {
   padding: 30px;
   border-left: solid 1px rgba(0, 0, 0, 0.2);
@@ -312,7 +310,6 @@ nav {
 .section-title {
   text-transform: uppercase;
   font:bold 19px/19px "Roboto Condensed",sans-serif;
-
 }
 
 .in-the-magazine, .editors-pick, .feateure-slideshows {
@@ -323,7 +320,6 @@ nav {
   padding: 40px;
   background: #F4F5F7;
 }
-
 
 .subscribe-section img {
   width: 100%
@@ -362,7 +358,7 @@ nav {
   letter-spacing: 0;
 }
 
-.icon{
+.icon {
   font-size: 50px;
   color: grey;
 }
@@ -380,7 +376,8 @@ nav {
   border-right: solid 1px grey;
   opacity: .7;
 }
-.opinion{
+
+.opinion {
   margin-bottom: 10px;
 }
 
@@ -398,33 +395,34 @@ nav {
   padding-top: 20px;
   text-transform: uppercase;
 }
-.candt{
+
+.candt {
   margin-bottom: 30px;
   margin-top: 20px;
   background: #f4f5f7;
 }
 
-.featured-stories{
+.featured-stories {
   padding-bottom: 20px;
 }
 
-.candt h6{
+.candt h6 {
   font: 20px/22px "Lora",serif;
 }
 
-.candt span{
+.candt span {
   background: #c2d4d7;
 
 }
 
-.candt div{
+.candt div {
   list-style-type:none;
   font: 15px/20px "Helvetica Neue","Helvetica",Arial,sans-serif;
   color:rgba(39,39,39,.5);
   margin-bottom: 10px;
 }
 
-.content-ct{
+.content-ct {
   padding-left: 5px;
 }
 
