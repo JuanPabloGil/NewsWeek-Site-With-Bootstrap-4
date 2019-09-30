@@ -228,6 +228,10 @@ nav {
   margin-bottom: 10px;
 }
 
+.subscribe-section img {
+  width: 100%;
+}
+
 .feateure-slideshows img:nth-child(1) {
   width: 100%;
 }
@@ -326,10 +330,6 @@ nav {
 .subscribe-section {
   padding: 40px;
   background: #f4f5f7;
-}
-
-.subscribe-section img {
-  width: 100%;
 }
 
 .subscribe-title {
