@@ -3,7 +3,7 @@ main {
   max-width: 1310px;
   margin: 0 auto;
   padding: 20px;
-  padding-top: 70px;
+  padding-top: 50px;
   margin-top: 50px;
 }
 
@@ -36,9 +36,17 @@ nav {
   visibility: visible;
 }
 
-.btn2 {
+.btn2  a{
   background: white;
   color: red;
+}
+
+.navigation2 a {
+  color: black;
+}
+
+.btn1 a {
+  color: white;
 }
 
 .allo {
@@ -58,6 +66,10 @@ nav {
   .navigation2 {
     visibility: hidden;
     height: 1;
+  }
+
+  main {
+      padding-top: 0;
   }
 
   .image12 {
