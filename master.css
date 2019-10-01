@@ -36,7 +36,7 @@ nav {
   visibility: visible;
 }
 
-.btn2  a{
+.btn2 a {
   background: white;
   color: red;
 }
@@ -69,7 +69,7 @@ nav {
   }
 
   main {
-      padding-top: 0;
+    padding-top: 0;
   }
 
   .image12 {
