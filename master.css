@@ -32,10 +32,6 @@ nav {
   height: 0;
 }
 
-.bars {
-  font-size: 1.8em;
-}
-
 .visible {
   visibility: visible;
 }
@@ -46,7 +42,7 @@ nav {
 }
 
 .allo {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .nabvarr {
@@ -115,10 +111,10 @@ nav {
 .navigation2 span {
   font-size: 18px;
   font-weight: bold;
-  padding: 10px;
   border-right: solid 1px rgba(0, 0, 0, 0.3);
   padding-left: 1.3%;
   padding-right: 1.3%;
+  padding-top: 10px;
 }
 
 .image-article {
@@ -184,6 +180,14 @@ nav {
 }
 
 .in-the-magazine img {
+  width: 100%;
+}
+
+.opinion img {
+
+}
+
+.news-sub img {
   width: 100%;
 }
 
