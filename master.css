@@ -219,6 +219,10 @@ nav {
   width: 100%;
 }
 
+.news-sub-article h4:hover{
+  color: red;
+}
+
 .featured-stories img {
   width: 100%;
 }
@@ -266,6 +270,10 @@ nav {
   font-weight: bold;
 }
 
+.sub-article-title:hover {
+  color:red;
+}
+
 .pic-on-blue {
   display: block;
   font: bold 17px/16px "Roboto", sans-serif;
@@ -311,10 +319,18 @@ nav {
   font-weight: 700;
 }
 
+.article-title:hover {
+  color:red;
+}
+
 .news-title {
   font-size: 17px;
   font-weight: bold;
   color: black;
+}
+
+.news-title:hover {
+  color:red;
 }
 
 .news-sec {
@@ -332,6 +348,10 @@ nav {
 .section-title {
   text-transform: uppercase;
   font: bold 19px/19px "Roboto Condensed", sans-serif;
+}
+
+.section-title:hover {
+  color:red;
 }
 
 .in-the-magazine,
@@ -378,6 +398,10 @@ nav {
   letter-spacing: 0;
 }
 
+.bottom-title:hover {
+  color:red;
+}
+
 .icon {
   font-size: 50px;
   color: grey;
@@ -403,6 +427,10 @@ nav {
 
 .opinion strong {
   font: bold 13px "Roboto Condensed", sans-serif;
+}
+
+.opinion strong:hover {
+  color: red;
 }
 
 .title-top {
